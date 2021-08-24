@@ -1,0 +1,6 @@
+/yae/target/
+/yae/.idea/
+/yae/src/main/webapp/static
+/yae/src/main/webapp/index.html
+.idea
+/yae/yae.iml
